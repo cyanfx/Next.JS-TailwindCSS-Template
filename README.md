@@ -1,4 +1,4 @@
-## Barebone configs for a Next.JS/TailwindCSS project (No TypeScript)
+## Barebone configs for a NextJS/TailwindCSS project (No TypeScript)
 
 ESLint and Prettier are also minimally setup.
 
